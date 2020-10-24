@@ -1,4 +1,4 @@
-Mobile Application Color Blind Converter: Chroma
+# Mobile Application Color Blind Converter: Chroma
 
   Mobile Application to convert the image taken from camera to several color blind filter.
   This app was created to help color blind people to see images from their camera easier. 
