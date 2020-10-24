@@ -1,3 +1,3 @@
 # Text Generator Application In Assisting Mental Health Care
 
-In this 
+Text Generator that responds based on the text written into the sentiment analysis machine learning.
