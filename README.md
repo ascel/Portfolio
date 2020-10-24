@@ -1,6 +1,6 @@
 # Portfolio
 
-This repo contains some of my previous works.
+This repo contains some of my previous works:
 - Text Summarizer
 - Text Generator Application In Assisting Mental Health Care
 - Chroma
