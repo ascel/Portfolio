@@ -9,4 +9,4 @@ This repo contains some of my previous works:
 ### My Codeforces Account : https://codeforces.com/profile/asceL-
 ### My Hackerrank Account : https://www.hackerrank.com/kevinzethe
 ### My Kattis Account : https://open.kattis.com/users/ascel-
-Current member of https://jollybee.binus.ac.id/
+Ex-member of https://jollybee.binus.ac.id/
